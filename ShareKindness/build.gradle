@@ -1,0 +1,6 @@
+
+dependencies {
+    // ...existing dependencies...
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    // ...existing dependencies...
+}
